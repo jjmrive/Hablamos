@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context="com.jjmrive.hablamos.Home">
+
+    <item android:id="@+id/add_menu" android:title="@string/menu_add"
+        android:orderInCategory="1" app:showAsAction="ifRoom" android:icon="@drawable/ic_action_name"/>
+
+</menu>

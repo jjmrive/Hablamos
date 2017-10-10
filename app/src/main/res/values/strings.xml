@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">¡Hablamos!</string>
+    <string name="menu_add">Añadir tarjeta</string>
+    <string name="menu_delete">Eliminar tarjeta</string>
+
+    <string name="title_activity_element_details">Detalles de la tarjeta</string>
+    <string name="element_details_title">¡Toca la imagen!</string>
+
+    <string name="dialog_basic_title">Eliminar tarjeta</string>
+    <string name="dialog_basic_description">Se eliminará la tarjeta</string>
+    <string name="dialog_basic_delete">Eliminar</string>
+    <string name="dialog_basic_cancel">Mantener</string>
+
+    <string name="dialog_add_title">Nueva tarjeta</string>
+    <string name="dialog_add_editName">Nombre de la tarjeta</string>
+    <string name="dialog_add_editMsg">Mensaje de la tarjeta</string>
+    <string name="dialog_add_editUrl">URL de la imagen de la tarjeta</string>
+    <string name="dialog_add_buttonAdd">Crear</string>
+    <string name="dialog_add_buttonCancel">Cancelar</string>
+    <string name="dialog_add_errorName">Este nombre de tarjeta ya existe</string>
+    <string name="dialog_add_errorSize">Tamaño incorrecto</string>
+    <string name="dialog_add_noName">Introduce el nombre de la tarjeta</string>
+    <string name="dialog_add_noMsg">Introduce el mensaje de la tarjeta</string>
+    <string name="dialog_add_noUrl">Introduce la URL de la imagen</string>
+
+    <string name="element_added_ok">Tarjeta añadida correctamente</string>
+
+    <string name="element_deleted_init">La tarjeta</string>
+    <string name="element_deleted_final">ha sido eliminada</string>
+</resources>
