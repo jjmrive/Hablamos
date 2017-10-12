@@ -1,7 +1,7 @@
 # ¡Hablamos!
 ¡Hablamos! permite la comunicación con personas con Trastornos del Espectro Autista (TEA). Mediante tarjetas personalizables por el usuario se puede elaborar un diccionario de usos típicos para cualquier persona con TEA. Basta tocar cualquier tarjeta para que el dispositivo reconozca el texto de la misma y reproduzca por voz su contenido.
 
-## Prerequisitos
+## Prerrequisitos
 
 * Android 5.0 o superior (API 21+)
 
